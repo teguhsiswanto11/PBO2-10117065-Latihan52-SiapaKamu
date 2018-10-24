@@ -23,7 +23,7 @@ public class Mahasiswa extends Manusia{
     }
 
     public void siapaKamu() {
-        System.out.println("Saya mahasiswa");
+        System.out.println("Saya Mahasiswa");
     }
 
 
